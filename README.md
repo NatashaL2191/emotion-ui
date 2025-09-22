@@ -35,5 +35,5 @@ emotion-ui/
 │   └── design.md
 │
 └── tests/                    # Unit tests
-</code>
     └── test_detector.py
+</code>
