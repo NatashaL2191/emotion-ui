@@ -6,13 +6,14 @@ based on the user’s detected emotions (via webcam).
 ## 🚀 How to Run
 
 1. Clone this repo
-<code>
+```
 git clone https://github.com/yourusername/emotion-ui.git
 cd emotion-ui
 </code>
+```
 
 # Structure
-<code>
+```
 emotion-ui/
 │
 ├── README.md                 # Project overview, how to run
@@ -36,4 +37,4 @@ emotion-ui/
 │
 └── tests/                    # Unit tests
     └── test_detector.py
-</code>
+```
