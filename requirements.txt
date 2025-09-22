@@ -1,0 +1,4 @@
+deepface
+opencv-python
+tensorflow
+pandas   # (if you log emotions to CSV)
